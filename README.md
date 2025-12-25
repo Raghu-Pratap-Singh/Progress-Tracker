@@ -20,4 +20,4 @@ To ensure the progress calculations and Fenwick Tree logic remain accurate, plea
 
 * **Database Manual Edits**: Do not manually open or edit the `tracker.db` file with external software, as it may corrupt the data structure required by the app.
 
-## 📥 [Download the Latest Version Here]((https://github.com/Raghu-Pratap-Singh/Progress-Tracker/releases/tag/v1.0.0))
+## 📥 [Download the Latest Version Here](https://github.com/Raghu-Pratap-Singh/Progress-Tracker/releases/tag/v1.0.0)
