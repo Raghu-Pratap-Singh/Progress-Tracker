@@ -1,4 +1,4 @@
-# 📈 Progress Tracker
+<img width="574" height="301" alt="image" src="https://github.com/user-attachments/assets/2c1bae44-bfc8-4935-9b1d-3f92c80d4e4b" /># 📈 Progress Tracker
 
 A custom Python desktop app for daily productivity.
 
@@ -19,3 +19,5 @@ To ensure the progress calculations and Fenwick Tree logic remain accurate, plea
 * **Avoid Non-Chronological Entry**: Do not add data for a "previous date" after you have already entered data for a "later date." The app is optimized for real-time, day-to-day tracking.
 
 * **Database Manual Edits**: Do not manually open or edit the `tracker.db` file with external software, as it may corrupt the data structure required by the app.
+
+## 📥 [Download the Latest Version Here](PASTE_YOUR_LINK_HERE)
